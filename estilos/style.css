@@ -6,7 +6,9 @@
 body {
     background-color: rgb(63, 152, 122);
 }
-
+img.lado{
+    float: right;
+}
 main {
     background-color: azure;
     width: 500px;
